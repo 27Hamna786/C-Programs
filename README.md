@@ -3,7 +3,7 @@ My C program Notes include all the programs and stuff of C language I have yet.
 ![hasanaath27's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanaath27&theme=merko&hide_border=true)
 ### Hi there 👋, Myself Amina
 #### I am a GitHub User, So code Speaks here!
-![I am a GitHub User, So code Speaks here!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a GitHub User, So code Speaks here!
 
 This is all the C programming that I have done yet,
 It is in the form of coding notes
